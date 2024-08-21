@@ -8,7 +8,7 @@ body {
     text-shadow: 2px 2px 2px #001d3d, 0 0 1em gold;
 }
 
-body:hover {
+body: hover {
     text-shadow: 0 0 1em #001d3d;
 }
 
@@ -20,7 +20,7 @@ body:hover {
     box-shadow: 1px 1px 2px #001d3d, 0 0 0.5em gold;
 }
 
-.avatar:hover {
+.avatar: hover {
     border: 2px solid #001d3d;
     box-shadow: 0 0 0.5em #001d3d;    
 }
@@ -35,11 +35,11 @@ body:hover {
     background: #003566;
     color: #ffd60a;
     border: 2px solid black;
-    border-radius: 10%;
+    border-radius: 5%;
         
 }
 
-.card:hover {
+.card: hover {
     background: #ffd60a;
     color: #003566;
     border: 2px solid #ffc300;
